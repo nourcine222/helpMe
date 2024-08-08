@@ -1,0 +1,22 @@
+{
+  "name": "helpme",
+  "version": "1.0.0",
+  "description": "donation site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nourcine222/helpMe.git"
+  },
+  "keywords": [
+    "donation"
+  ],
+  "author": "nourcine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nourcine222/helpMe/issues"
+  },
+  "homepage": "https://github.com/nourcine222/helpMe#readme"
+}
